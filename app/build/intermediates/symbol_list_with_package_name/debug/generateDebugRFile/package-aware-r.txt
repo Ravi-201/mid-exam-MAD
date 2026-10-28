@@ -1,0 +1,21 @@
+com.example.midexam
+array majors
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id addButton
+id deleteButton
+id editButton
+id majorSpinner
+id studentId
+id studentName
+id viewButton
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_MidExam
+style Theme_MidExam
+xml backup_rules
+xml data_extraction_rules
